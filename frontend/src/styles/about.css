@@ -1,0 +1,18 @@
+/* About Section */
+.about-section {
+  padding: 80px 0;
+  background: var(--rbg-bg-light);
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--rbg-text-medium);
+  margin-bottom: 1.5rem;
+} 

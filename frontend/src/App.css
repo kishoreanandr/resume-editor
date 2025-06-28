@@ -1,0 +1,7 @@
+/* Import all CSS modules */
+@import './styles/variables.css';
+@import './styles/navbar.css';
+@import './styles/hero.css';
+@import './styles/features.css';
+@import './styles/about.css';
+@import './styles/footer.css'; 
