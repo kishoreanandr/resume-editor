@@ -110,7 +110,3 @@ npm run dev
 - AI enhancement is a mock (uses synonyms and adjectives for professionalization).
 
 ---
-
-## License
-
-This project is for educational/demo purposes. 
